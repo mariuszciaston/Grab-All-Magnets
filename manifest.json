@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Grab All Magnets!",
+    "version": "1.0",
+    "description": "Tired of clicking magnet links one by one? Grab them all at once now! Copy all magnet links to clipboard by clicking on extension icon.",
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "clipboardWrite"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Grab All Magnets! Click to copy to clipboard.",
+        "default_icon": {
+            "16": "icon16.png",
+            "32": "icon32.png",
+            "48": "icon48.png",
+            "128": "icon128.png"
+        }
+    }
+}
