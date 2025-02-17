@@ -25,7 +25,7 @@ New in 1.1: Added a popup displaying the number of magnets copied. -->
 
 ## How to Use
 
-• Install the extension from the Chrome Web Store
+• Install the extension <!-- from the Chrome Web Store-->
 
 • Navigate to a page with magnet links
 
