@@ -44,3 +44,11 @@ New in 1.1: Added a popup displaying the number of magnets copied. -->
 **Version 1.0:**
 
 • Initial release with core functionality to copy all magnet links.
+
+## Todo
+
+• Auto open all magnets in torrent app button
+
+• Show list of all magnets
+
+• Open one by one 
