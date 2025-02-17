@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Grab All Magnets!",
     "version": "1.1",
-    "description": "Tired of clicking magnet links one by one? Grab them all at once now! Copy all magnet links to clipboard by clicking on extension icon.",
+    "description": "Tired of clicking magnet links one by one? Grab them all at once now! Copy magnet links to clipboard by clicking on extension icon.",
     "permissions": [
         "activeTab",
         "scripting",
